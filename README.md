@@ -257,3 +257,38 @@ For questions or support, please:
 - **Fairness-First Approach**: Implements multiple fairness principles for equitable revenue distribution
 - **Production Ready**: Full API server with comprehensive testing and documentation
 - **Scalable Design**: Supports both single and batch processing for high-throughput scenarios
+
+---
+
+# AI-Native Analytics: Cross-Platform UI with Lynx
+
+## 🎯 Problem
+LLMs and AI systems are transforming user interaction. Traditional UI paradigms can't handle natural language queries, real-time AI responses, and intelligent data visualization.
+
+## 🤖 Solution
+AI-native livestream analytics platform using **Lynx** (TikTok's cross-platform UI framework):
+
+- **Intelligent Chatbot Interface**: Natural language data analysis
+- **Natural Language Data Filtering**: Convert queries to structured filters
+- **Cross-Platform**: Single codebase for iOS, Android, Web
+
+## 🦊 Why Lynx?
+- **Modern Visual Design**: Gradient thinking boxes and modern UI effects with one line of CSS
+- **Main Thread Optimization**: Dual-threaded architecture with instant first-frame rendering and non-blocking UI
+- **Cross-Device Sync**: Seamless state synchronization across iOS, Android, Web
+
+## 🎨 AI-Era Patterns
+- **Natural Language First**: Redefine data interaction
+- **Streaming Responses**: Real-time AI analysis
+- **Conversational Analytics**: Multi-turn AI conversations
+- **Intelligent Filtering**: AI-powered query conversion
+
+## 🏆 Innovation
+- **AI-Native Design**: Interfaces built for AI collaboration
+- **Cross-Platform AI**: Seamless AI capabilities across platforms
+- **Future-Ready**: Foundation for AI-generated UI
+
+## 🚀 Setup
+See **[Frontend Guide](./lynx_frontend/lynx-starter/README.md)** for details.
+
+---

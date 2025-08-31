@@ -1,0 +1,3 @@
+[submodule "lynx_frontend"]
+	path = lynx_frontend
+	url = ./lynx_frontend
