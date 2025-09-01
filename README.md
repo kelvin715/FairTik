@@ -289,6 +289,6 @@ AI-native livestream analytics platform using **Lynx** (TikTok's cross-platform 
 - **Future-Ready**: Foundation for AI-generated UI
 
 ## 🚀 Setup
-See **[Frontend Guide](./lynx_frontend/lynx-starter/README.md)** for details.
+See **[Frontend Guide](https://github.com/Cicici-Shi/lynx-starter#readme)** for details.
 
 ---
