@@ -1,3 +1,3 @@
-[submodule "lynx_frontend"]
-	path = lynx_frontend
-	url = ./lynx_frontend
+[submodule "lynx_frontend/lynx-starter"]
+	path = lynx_frontend/lynx-starter
+	url = https://github.com/Cicici-Shi/lynx-starter
